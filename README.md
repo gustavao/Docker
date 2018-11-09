@@ -1,11 +1,11 @@
 # Docker
 CursoDocker
 
-#Componentes Docker
+# Componentes Docker
 
-*Demonio
-*Clientes
-*Objetos
-  *Imagenes 
-  *Contenedores
-*Servicios
+* Demonio
+* Clientes
+* Objetos
+  * Imagenes 
+  * Contenedores
+* Servicios
